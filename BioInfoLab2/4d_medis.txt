@@ -1,0 +1,110 @@
+
+         /-JX993988.1BatcoronavirusCp/Yunnan2011
+        |
+        |--MZ081382.1
+      /-|
+     |  |   /-KF569996.1RhinolophusaffiniscoronavirusisolateLYRa11
+     |  |  |
+     |   \-|      /-MT308984.1MutantSARScoronavirusUrbanicloneSARS-Urbani-MA_SHC014-spike
+     |     |   /-|
+     |      \-|   \-MK062183.1SARScoronavirusUrbaniisolateicSARS-C7
+     |        |
+     |         \-KP886808.1BatSARS-likecoronavirusYNLF_31C
+     |
+     |            /-GU190215.1BatcoronavirusBM48-31/BGR/2008
+     |           |
+     |         /-|--AY394988.1
+     |        |  |
+     |        |   \-KY352407.1Severeacuterespiratorysyndrome-relatedcoronavirusstrainBtKY72
+     |      /-|
+     |     |  |   /-MN514967.1DromedarycamelcoronavirusHKU23isolateDcCoV-HKU23/camel/Nigeria/NV1385/2016
+     |     |  |  |
+     |     |   \-|   /-LC556375.1Severeacuterespiratorysyndrome-relatedcoronavirusRc-o319RNA
+     |     |     |  |
+     |     |      \-|   /-MT040335.1PangolincoronavirusisolatePCoV_GX-P5L
+     |     |        |  |
+   /-|     |         \-|   /-MT121216.1PangolincoronavirusisolateMP789
+  |  |     |           |  |
+  |  |     |            \-|      /-MG772933.1BatSARS-likecoronavirusisolatebat-SL-CoVZC45
+  |  |     |              |   /-|
+  |  |   /-|              |  |   \-MG772934.1BatSARS-likecoronavirusisolatebat-SL-CoVZXC21
+  |  |  |  |               \-|
+  |  |  |  |                 |   /-NC_045512.2Severeacuterespiratorysyndromecoronavirus2isolateWuhan-Hu-1
+  |  |  |  |                  \-|
+  |  |  |  |                     \-MN996532.2BatcoronavirusRaTG13
+  |  |  |  |
+  |  |  |  |   /-MK211374.1CoronavirusBtRl-BetaCoV/SC2018
+  |  |  |  |  |
+  |  |  |  |  |      /-JX993987.1BatcoronavirusRp/Shaanxi2011
+  |  |  |  |  |     |
+  |  |  |  |  |   /-|      /-DQ648856.1Batcoronavirus
+  |  |  |   \-|  |  |   /-|
+  |  |  |     |  |  |  |   \-DQ412042.1BatSARScoronavirusRf1
+  |  |  |     |  |   \-|
+  |  |  |     |  |     |   /-KJ473813.1BtRf-BetaCoV/SX2013
+  |  |  |     |  |      \-|
+  |  |  |      \-|         \-KJ473811.1BtRf-BetaCoV/JL2012
+  |   \-|        |
+  |     |        |      /-GQ153542.1BatSARScoronavirusHKU3-7
+  |     |        |   /-|
+  |     |        |  |  |   /-GQ153547.1BatSARScoronavirusHKU3-12
+  |     |        |  |   \-|
+  |     |        |  |      \-MT782115.1MutantBatSARScoronavirusHKU3isolateicHKU3-SRBD-MA
+  |     |         \-|
+  |     |           |   /-KJ473814.1BtRs-BetaCoV/HuB2013
+  |     |           |  |
+  |     |           |  |--MZ328294.1
+  |     |            \-|
+  |     |              |--DQ412043.1BatSARScoronavirusRm1
+  |     |              |
+--|     |              |   /-OK017833.1
+  |     |               \-|
+  |     |                  \-OK017859.1
+  |     |
+  |     |   /-DQ071615.1BatSARScoronavirusRp3
+  |      \-|
+  |         \-KJ473815.1BtRs-BetaCoV/GX2013
+  |
+  |   /-FJ588686.1BatSARSCoVRs672/2006
+  |  |
+  |--|      /-KJ473816.1BtRs-BetaCoV/YN2013
+  |  |   /-|
+  |  |  |   \-KC881005.1BatSARS-likecoronavirusRsSHC014
+  |   \-|
+  |     |   /-MK211376.1CoronavirusBtRs-BetaCoV/YN2018B
+  |      \-|
+  |        |   /-MK211378.1CoronavirusBtRs-BetaCoV/YN2018D
+  |         \-|
+  |            \-MK211377.1CoronavirusBtRs-BetaCoV/YN2018C
+  |
+  |   /-MK211375.1CoronavirusBtRs-BetaCoV/YN2018A
+  |  |
+  |  |            /-KY417149.1BatSARS-likecoronavirusisolateRs4255
+  |  |           |
+  |  |           |--KY417152.1
+  |  |         /-|
+  |  |        |  |   /-KY417152.1BatSARS-likecoronavirusisolateRs9401
+  |  |        |  |  |
+  |  |        |   \-|--OK017802.1
+  |  |        |     |
+  |  |      /-|     |   /-KY417147.1BatSARS-likecoronavirusisolateRs4237
+  |  |     |  |      \-|
+  |  |     |  |         \-KF367457.1BatSARS-likecoronavirusWIV1
+  |  |     |  |
+  |  |     |  |   /-KY417145.1BatSARS-likecoronavirusisolateRf4092
+   \-|     |   \-|
+     |   /-|     |   /-KY417151.1BatSARS-likecoronavirusisolateRs7327
+     |  |  |      \-|
+     |  |  |        |   /-KY417146.1BatSARS-likecoronavirusisolateRs4231
+     |  |  |         \-|
+     |  |  |            \-KY417142.1BatSARS-likecoronavirusisolateAs6526
+     |  |  |
+     |--|  |   /-KY417150.1BatSARS-likecoronavirusisolateRs4874
+     |  |   \-|
+     |  |     |   /-KY417143.1BatSARS-likecoronavirusisolateRs4081
+     |  |      \-|
+     |  |         \-BatSARS-likecoronavirusisolateRs4247
+     |  |
+     |   \-KY417144.1BatSARS-likecoronavirusisolateRs4084
+     |
+      \-OK017858.1
